@@ -104,6 +104,8 @@ int rodada_palitinhos(int v[], int v1[], int x){
     return (-1);
 }
 
+/*LEMBRAR DE ADICIONAR AS 2 QUE FALTAM*/
+
 void diagonal_invertida(int matriz[10][10]){
 
     int matcop[][] = {};
